@@ -1,0 +1,8 @@
+# GitHub Pages sirve el index.md directamente con este tema, sin conversion a mano.
+#
+# Se publica el MARKDOWN y no un HTML escrito aparte a proposito: un HTML paralelo se
+# desincroniza de la politica real, y una politica de privacidad que dice algo distinto
+# de lo que dice el proyecto es peor que no tener pagina.
+theme: jekyll-theme-primer
+title: Política de privacidad de Zip Rush
+description: Qué datos maneja Zip Rush y qué se hace con ellos
